@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>621</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>“k”的局部声明遮蔽了此前位于“40”行(“c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\game.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>Game::ProcessInput</FUNCTION>
+    <DECORATED>?ProcessInput@Game@@QAEXM@Z</DECORATED>
+    <FUNCLINE>198</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+        <FILENAME>game.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>642</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>“k”的局部声明遮蔽了此前位于“40”行(“c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\game.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>Game::ProcessInput</FUNCTION>
+    <DECORATED>?ProcessInput@Game@@QAEXM@Z</DECORATED>
+    <FUNCLINE>198</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+        <FILENAME>game.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>664</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>“k”的局部声明遮蔽了此前位于“40”行(“c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\game.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>Game::ProcessInput</FUNCTION>
+    <DECORATED>?ProcessInput@Game@@QAEXM@Z</DECORATED>
+    <FUNCLINE>198</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+        <FILENAME>game.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>684</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>“k”的局部声明遮蔽了此前位于“40”行(“c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\game.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>Game::ProcessInput</FUNCTION>
+    <DECORATED>?ProcessInput@Game@@QAEXM@Z</DECORATED>
+    <FUNCLINE>198</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+        <FILENAME>game.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>1272</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>“count”的局部声明遮蔽了此前位于“40”行(“c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\game.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>Game::DoCollisions</FUNCTION>
+    <DECORATED>?DoCollisions@Game@@QAEXXZ</DECORATED>
+    <FUNCLINE>1269</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\zhouwenhao\desktop\测试 - 副本 - 副本\测试\</FILEPATH>
+        <FILENAME>game.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,26 @@
+﻿  sprite_renderer.cpp
+  shader.cpp
+  resourse_manager.cpp
+  main.cpp
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\main.cpp(82): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\main.cpp(254): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\main.cpp(259): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+  game_object.cpp
+  game_level.cpp
+  game.cpp
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\game.cpp(1504): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\game.cpp(1516): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\game.cpp(1528): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\game.cpp(1540): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\game.cpp(1552): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\game.cpp(1564): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\game.cpp(1576): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\game.cpp(1588): warning C4305: “+=”: 从“double”到“float”截断
+  TextRenderer.cpp
+c:\users\zhouwenhao\desktop\glfw\freetype\freetype.h(2619): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\zhouwenhao\desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易qq堂源码\测试\textrenderer.cpp(89): warning C4838: 从“FT_Pos”转换到“GLuint”需要收缩转换
+  正在生成代码...
+  测试.vcxproj -> C:\Users\zhouwenhao\Desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易QQ堂源码\Debug\测试.exe
+  测试.vcxproj -> C:\Users\zhouwenhao\Desktop\新建文件夹\周文浩3160104366侯家乐3160104439梁翔宇3160104312\简易QQ堂源码\Debug\测试.pdb (Full PDB)
